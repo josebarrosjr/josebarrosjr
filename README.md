@@ -57,3 +57,10 @@ Fora do mundo da tecnologia e dos dados, sou um entusiasta de video games, apaix
   <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white" alt="Kanban">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Prompts-7400B8?style=flat" alt="Engenharia de Prompts">
 </p>
+
+---
+
+<img width="150" alt="logo-dev" src="https://github.com/user-attachments/assets/0b52c216-0f1b-49c6-b4b4-622688d48bdc" />
+
+
+
